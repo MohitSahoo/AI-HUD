@@ -6,25 +6,31 @@ A sophisticated computer vision system that detects drowsiness in real-time usin
 
 ## ✨ Features
 
-- 🔍 Real-time drowsiness detection using webcam 
-- 🎯 Accurate detection of multiple drowsiness indicators:
-  - Head nodding
-  - Head tilting
-  - Eye closure
-  - Reduced movement
-  - Face position tracking
-- 🎨 User-friendly Streamlit interface
-- 🔊 Audio alerts when drowsiness is detected
-- 🚗 traffic detection integration
-- 🎯 High accuracy with minimal false positives
-- ⚡ Fast and efficient processing
+### 🧠 Drowsiness Detection
+- 🔍 Real-time detection via webcam  
+- 🎯 Tracks multiple indicators of fatigue:
+  - Head nodding and tilting  
+  - Eye closure  
+  - Facial movement reduction  
+  - Face position deviation  
+- 🔊 Audio alerts when drowsiness is detected  
+- ⚡ Fast and accurate detection with minimal false positives  
+
+### 🛣️ Traffic Analysis System
+- 🚗 **Object Detection**: Vehicles, road signs using YOLOv8  
+- 🛑 **Traffic Sign Recognition**: Stop signs, speed limits, etc.  
+- 🛤️ **Lane Detection**: Monitors vehicle lane adherence  
+- 📸 Real-time detection from webcam feed  
+- 📈 Combined visualization with drowsiness module for better situational awareness
+
+---
 
 ## 🛠️ Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/drowsiness-detection.git
+git clone https://github.com/MohitSahoo/AI-HUD.git
 cd drowsiness-detection
 ```
 
