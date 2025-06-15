@@ -1,12 +1,12 @@
-# 🚨 Real-time Drowsiness Detection System
+# 🚨 AI POWERED HUD
 
-A sophisticated computer vision system that detects drowsiness in real-time using your webcam. The system uses advanced machine learning techniques to monitor facial features and movement patterns to accurately detect when someone is becoming drowsy.
+A sophisticated computer vision system that detects drowsiness in real-time using your webcam. The system uses advanced machine learning techniques to monitor facial features and movement patterns to accurately detect when someone is becoming drowsy. It has added a functionality to do Traffic analysis that includes sign detection, in lane-detection and vehicle recognition to enhance the drivers experience.
 
 ![Drowsiness Detection Demo](docs/demo.gif)
 
 ## ✨ Features
 
-- 🔍 Real-time drowsiness detection using webcam
+- 🔍 Real-time drowsiness detection using webcam 
 - 🎯 Accurate detection of multiple drowsiness indicators:
   - Head nodding
   - Head tilting
