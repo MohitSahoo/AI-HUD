@@ -1,0 +1,8 @@
+names:
+- awake
+- drowsy
+nc: 2
+path: /Users/aamiribrahim/Downloads/drowsiness_detection_system/data/drowsiness_dataset
+test: /Users/aamiribrahim/Downloads/drowsiness_detection_system/data/drowsiness_dataset/test/images
+train: /Users/aamiribrahim/Downloads/drowsiness_detection_system/data/drowsiness_dataset/train/images
+val: /Users/aamiribrahim/Downloads/drowsiness_detection_system/data/drowsiness_dataset/val/images
